@@ -4,7 +4,7 @@ DataAnalysis
 
 1- Big Data Analysis: New Algorithms for a New Society.
 
-2- Ho=ands on Exploratory Data analysis.
+2- Hoands on Exploratory Data analysis.
 
 3-Applied Text Analysis with Python_ Enabling Language-Aware Data Products with Machine Learning.
 
